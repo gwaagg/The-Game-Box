@@ -5,12 +5,12 @@ Dies ist ein Funkspiel für diverse Spiele...
 
 
 ## Tools to need
-* MainBox
+1. MainBox
  * 1x Raspberry PI3
  * 1x RFM69 Module
  * 1x 10.1" HDMI Touch LCD
 
-* PlayBox
+2. PlayBox
  * 1x Arduino Mega
  * 1x RFM69
  * 25x Neopixels WS2812S 5050 RGB LED
